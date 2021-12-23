@@ -476,21 +476,21 @@ body {
 
 ### Home Page:
 
-![output](./images/homepage.png)
+![output](./homepage.png)
 
 ### Product Page:
 
-![output](./images/productpage1.png)
+![output](./productpage1.png)
 
-![output](./images/productpage2.png)
+![output](./productpage2.png)
 
 ### People Page:
 
-![output](./images/peoplepage.png)
+![output](./peoplepage.png)
 
 ### Contact Us Page:
 
-![output](./images/contactus.png)
+![output](./contactus.png)
 
 ## Result:
 
